@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{01B11823-E22C-4FF6-9DB1-E0F96E566CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{01B11823-E22C-4FF6-9DB1-E0F96E566CF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{3DCAA560-540C-4718-9B7C-8D62AD6C262D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triangle", "Triangle\Triangle.csproj", "{3DCAA560-540C-4718-9B7C-8D62AD6C262D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{01E4B1DF-BABE-4D0D-98AD-848700A5C58B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3DCAA560-540C-4718-9B7C-8D62AD6C262D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCAA560-540C-4718-9B7C-8D62AD6C262D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCAA560-540C-4718-9B7C-8D62AD6C262D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E4B1DF-BABE-4D0D-98AD-848700A5C58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E4B1DF-BABE-4D0D-98AD-848700A5C58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E4B1DF-BABE-4D0D-98AD-848700A5C58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E4B1DF-BABE-4D0D-98AD-848700A5C58B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
